@@ -1,0 +1,3 @@
+### Flyweight
+
+![UML](Flyweight.png)
