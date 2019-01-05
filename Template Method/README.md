@@ -4,3 +4,5 @@
 
 
 像这样在父类中定义处理流程的框架，在子类中实现具体处理的模式就成为Template Method模式。
+
+![UML](Template Method.png)
